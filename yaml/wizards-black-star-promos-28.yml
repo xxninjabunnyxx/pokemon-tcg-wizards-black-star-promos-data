@@ -1,0 +1,82 @@
+---
+id: basep-28
+name: Surfing Pikachu
+supertype: Pokémon
+subtypes:
+- Basic
+level: '32'
+hp: '50'
+types:
+- Lightning
+evolvesTo:
+- Raichu
+attacks:
+- name: Surf
+  cost:
+  - Water
+  - Water
+  convertedEnergyCost: 2
+  damage: '30'
+  text: ''
+weaknesses:
+- type: Fighting
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: basep
+  name: Wizards Black Star Promos
+  series: Base
+  printedTotal: 53
+  total: 53
+  legalities:
+    unlimited: Legal
+  ptcgoCode: PR
+  releaseDate: 1999/07/01
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/basep/symbol.png
+    logo: https://images.pokemontcg.io/basep/logo.png
+number: '28'
+artist: Toshinao Aoki
+rarity: Promo
+flavorText: One summer, a group of Pikachus was found riding the waves at the local
+  beach.
+nationalPokedexNumbers:
+- 25
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/basep/28.png
+  large: https://images.pokemontcg.io/basep/28_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/basep-28
+  updatedAt: 2023/09/08
+  prices:
+    normal:
+      low: 6.0
+      mid: 11.6
+      high: 25.0
+      market: 11.9
+      directLow: 8.0
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/basep-28
+  updatedAt: 2023/09/08
+  prices:
+    averageSellPrice: 17.33
+    lowPrice: 4.0
+    trendPrice: 20.23
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 4.52
+    lowPriceExPlus: 7.9
+    avg1: 6.99
+    avg7: 14.98
+    avg30: 18.35
+    reverseHoloAvg1: 3.95
+    reverseHoloAvg7: 4.47
+    reverseHoloAvg30: 4.47
